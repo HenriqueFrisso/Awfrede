@@ -1,4 +1,2 @@
 # Awfrede
-
-
-'''python3 -m pip install SpeechRecognition pyttsx3 pyaudio openai requests ytmusicapi pygetwindow'''
+Modelo de assitente virtual simples com pequenas funcionalidades
